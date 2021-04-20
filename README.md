@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pulkit-m
+- 👋 Hi, I’m Pulkit Mahajan
 - 👀 I’m interested in Deep Learning, Computer Vision, Machine Learning, Competitive Programming
 - 🌱 I’m currently learning Computer Vision 
 - 💞️ I’m looking to collaborate on any Project related to AI.
